@@ -40,11 +40,10 @@ The overall architecture
 ### Requirements
 - torch>=1.10.0
 - torchvision
-- timm==0.5.4
-- Pillow
-- matplotlib
-- scipy
-- etc., see [requirements.txt](requirements.txt)
+- shutil
+- random
+- os
+- ultralytics
 
 ### Data preparation
 Download and extract images. The directory structure should be as follows.
