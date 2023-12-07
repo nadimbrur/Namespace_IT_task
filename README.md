@@ -32,7 +32,7 @@ set. The result is shown in the provided Google Drive link.
 The overall architecture
 ![architecture]
 
-[architecture]: slide1.PNG
+[architecture]: ./Slide1.PNG
 
 
  
